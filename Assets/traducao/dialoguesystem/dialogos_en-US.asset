@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: dialogos_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 9fd509b263488b943ba7df28ae59ffae, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15781437440
+    m_Localized: Correct! The sternal part of the diaphragm connects to the xiphoid
+      process, helping you breathe efficiently!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18797142016
+    m_Localized: Excellent! The diaphragm's breathing and barrier functions are performed
+      mainly by the costal muscle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21481496576
+    m_Localized: Correct! The Central Tendon acts as an anchor point, which is essential
+      for the diaphragm's contraction!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28351766528
+    m_Localized: Excellent! The diaphragm's breathing and barrier functions are performed
+      mainly by the costal muscle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1642579992576
+    m_Localized: Nice pick! The Lumbar region, also called the Crural region, was
+      correctly identified!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5320837799936
+    m_Localized: 'Drag and snap the right pieces into place.
+
+      Rotate the piece
+      until it turns green.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15622979559424
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30320668024832
+    m_Localized: Your anatomy knowledge is sharp!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30458320887808
+    m_Localized: 'Now it''s important to remember that the diaphragm has to let vital
+      structures pass between the chest and the abdomen. Three of them are especially
+      important: the esophagus, which carries food to the stomach; the aorta, which
+      delivers arterial blood to the whole body; and the inferior vena cava, which
+      carries venous blood back to the heart.
+
+      Each of these structures crosses
+      the diaphragm through specific openings, known as hiatuses.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31329326833664
+    m_Localized: Press the spacebar to turn auto-rotation on / off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31627214692352
+    m_Localized: Drag the Diaphragm to see it in full, and use the mouse wheel to
+      zoom in or out.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39075803668480
+    m_Localized: 'The diaphragm has openings called hiatuses.
+
+      These openings
+      are essential because they allow structures to pass between the chest and the
+      abdomen, such as the esophagus, the aorta, and the inferior vena cava.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52080826228736
+    m_Localized: Here passes the inferior vena cava, the main vein through which
+      deoxygenated blood flows from the body to the heart.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52086371098624
+    m_Localized: The esophageal hiatus allows the passage of the esophagus, which
+      carries food to the stomach.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52088552136704
+    m_Localized: Through here passes the aorta, the main artery where oxygenated
+      blood flows from the heart to the body.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

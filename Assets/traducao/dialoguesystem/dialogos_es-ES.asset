@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: dialogos_es-ES
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: 9fd509b263488b943ba7df28ae59ffae, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 15781437440
+    m_Localized: "\xA1Correcto! La porci\xF3n esternal del diafragma se conecta con
+      el proceso xifoides, \xA1lo que ayuda a respirar de forma eficiente!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18797142016
+    m_Localized: "\xA1Excelente! Las funciones respiratorias y de barrera del diafragma
+      las realiza principalmente el m\xFAsculo costal."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21481496576
+    m_Localized: "\xA1Correcto! El Tend\xF3n Central act\xFAa como punto de anclaje,
+      \xA1fundamental para la contracci\xF3n del diafragma!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28351766528
+    m_Localized: "\xA1Excelente! Las funciones respiratorias y de barrera del diafragma
+      las realiza principalmente el m\xFAsculo costal."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1642579992576
+    m_Localized: "\xA1Buena elecci\xF3n! \xA1La regi\xF3n Lumbar, tambi\xE9n llamada
+      Crural, se identific\xF3 correctamente!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5320837799936
+    m_Localized: 'Arrastra y encaja las piezas correctas.
+
+      Gira la pieza hasta
+      que se ponga verde.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15622979559424
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30320668024832
+    m_Localized: "\xA1Tus conocimientos de anatom\xEDa est\xE1n afilados!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30458320887808
+    m_Localized: "Ahora es importante recordar que el diafragma debe permitir el
+      paso de estructuras vitales entre el t\xF3rax y el abdomen. Tres de ellas son
+      especialmente importantes: el es\xF3fago, que lleva el alimento al est\xF3mago;
+      la aorta, que distribuye la sangre arterial por todo el cuerpo; y la vena cava
+      inferior, que devuelve la sangre venosa al coraz\xF3n.\r\nCada una de estas
+      estructuras atraviesa el diafragma por aberturas espec\xEDficas, llamadas hiatos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31329326833664
+    m_Localized: "Pulsa la barra espaciadora para activar / desactivar la rotaci\xF3n
+      autom\xE1tica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31627214692352
+    m_Localized: Arrastra el Diafragma para verlo por completo y usa la rueda del
+      mouse para acercar o alejar el zoom.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39075803668480
+    m_Localized: "El diafragma tiene aberturas llamadas hiatos.\r\nEstas aberturas
+      son esenciales porque permiten el paso de estructuras entre el t\xF3rax y el
+      abdomen, como el es\xF3fago, la aorta y la vena cava inferior."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52080826228736
+    m_Localized: "Aqu\xED pasa la vena cava inferior, la principal vena por la que
+      fluye la sangre desoxigenada del cuerpo hacia el coraz\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52086371098624
+    m_Localized: "El hiato esof\xE1gico permite el paso del es\xF3fago, que transporta
+      los alimentos hasta el est\xF3mago."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52088552136704
+    m_Localized: "Por aqu\xED pasa la aorta, la principal arteria por la que fluye
+      la sangre oxigenada del coraz\xF3n hacia el cuerpo."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

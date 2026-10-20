@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: menu_opcoes Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: menu_opcoes
+  m_TableCollectionNameGuidString: cc30610124a7a73429fc50aaa8802617
+  m_Entries:
+  - m_Id: 406044025397248
+    m_Key: 'opc_audio
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406282211532800
+    m_Key: opc_visu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406288385548288
+    m_Key: opc_tuto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406506309001216
+    m_Key: tela-cheia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406538458341376
+    m_Key: resolu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406566178496512
+    m_Key: voltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406584364998656
+    m_Key: creditos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 409549511434240
+    m_Key: devs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 409630478278656
+    m_Key: orientacao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 409676720480256
+    m_Key: coordenacao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 409710878892032
+    m_Key: gestao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 409733733654528
+    m_Key: projeto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9433342368129024
+    m_Key: idioma
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1459213991254688020
+  references:
+    version: 2
+    RefIds:
+    - rid: 1459213991254688020
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1789793738085

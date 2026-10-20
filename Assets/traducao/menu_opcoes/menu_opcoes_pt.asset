@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: menu_opcoes_pt
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt
+  m_SharedData: {fileID: 11400000, guid: cc30610124a7a73429fc50aaa8802617, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 406044025397248
+    m_Localized: "Op\xE7\xF5es de \xC1udio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406282211532800
+    m_Localized: "Op\xE7\xF5es Visuais"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406288385548288
+    m_Localized: Tutoriais em tela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406506309001216
+    m_Localized: Tela cheia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406538458341376
+    m_Localized: "Resolu\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406566178496512
+    m_Localized: VOLTAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406584364998656
+    m_Localized: "CR\xC9DITOS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 409549511434240
+    m_Localized: Desenvolvedores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 409630478278656
+    m_Localized: "Orienta\xE7\xE3o Acad\xEAmica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 409676720480256
+    m_Localized: "Coordena\xE7\xE3o Geral e idealiza\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 409710878892032
+    m_Localized: "Gest\xE3o do Projeto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 409733733654528
+    m_Localized: "Projeto desenvolvido pelo Grupo de Pesquisa e Produ\xE7\xE3o de
+      Materiais Did\xE1ticos em Ci\xEAncias Fisiol\xF3gicas e pelo Departamento de
+      Ci\xEAncia da Computa\xE7\xE3o da Universidade Federal de Alfenas(UNIFAL-MG))"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9433342368129024
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

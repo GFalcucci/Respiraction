@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Spanish (Spain) (es-ES)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Spanish (Spain) (es-ES)
+  m_GUID: 0f981b8c3fd1aac4793db33cb3a2fc28
+  m_SerializeEntries:
+  - m_GUID: 0a14cb3408703f142adc3271efcce4a9
+    m_Address: menu_principal_es-ES
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-ES
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9320a195afbfa2a439b3d375b09744a5
+    m_Address: menu_opcoes_es-ES
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-ES
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1cf0b7e3fe62dd418d1953f2bed09d2
+    m_Address: dialogos_es-ES
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-ES
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 929ab16f0b41d934598aebfab93ebe72, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bffd89bb7cf11de408358fb5b9a13812, type: 2}
+    - {fileID: 11400000, guid: d25c056aac566bc4b8cfa6007d31aa73, type: 2}
+    - {fileID: 11400000, guid: cce775e14eb4eb048ad8aefba894b1cd, type: 2}
